@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "thread-13090132-506909745012483037.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "thread-13090132-506909745012483037@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "thread-13090132-506909745012483037@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

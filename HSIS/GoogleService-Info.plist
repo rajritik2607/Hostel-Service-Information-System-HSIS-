@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>952572605320-gtclt2nqkma6pkt242815tn9nbhlbpv7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.952572605320-gtclt2nqkma6pkt242815tn9nbhlbpv7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACZU4_ZdX18d9s5s3UqV2RmPoAVltiz70</string>
+	<key>GCM_SENDER_ID</key>
+	<string>952572605320</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ritik.suryawanshi.HSIS1</string>
+	<key>PROJECT_ID</key>
+	<string>hsis-336ee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hsis-336ee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:952572605320:ios:c96cc85864357fddad403d</string>
+	<key>DATABASE_URL</key>
+	<string>https://hsis-336ee.firebaseio.com</string>
+</dict>
+</plist>
